@@ -1,9 +1,5 @@
-#Basic Project
+#Classes and Subclasses Project
 
-Basic Java Maven Project Structure
-
-*QA
-*Java
-*Maven
+Project that uses classes and subclasses
 
 [Denis Umanets](http://sqasolution.com)
